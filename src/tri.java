@@ -1,2 +1,2 @@
-public class tri {
+public class tri {121
 }
